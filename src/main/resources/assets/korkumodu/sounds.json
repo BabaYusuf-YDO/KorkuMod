@@ -1,0 +1,11 @@
+{
+  "jumpscare": {
+    "sounds": ["korkumodu:jumpscare"]
+  },
+  "pervert_laugh": {
+    "sounds": ["korkumodu:pervert_laugh"]
+  },
+  "heartbeat": {
+    "sounds": ["korkumodu:heartbeat"]
+  }
+}
